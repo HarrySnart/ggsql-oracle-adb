@@ -1,0 +1,1 @@
+# ggsql-oracle-adb
